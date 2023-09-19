@@ -1,0 +1,43 @@
+
+
+#lila{
+background-color: blueviolet
+}
+#vkek{
+background-color: aqua;
+}
+#kek{
+background-color: lightskyblue;
+}
+#mocsarkek{
+background-color: green;
+}
+#bibor{
+background-color: darksalmon;
+}
+#rozsaszin{
+background-color: pink;
+}
+#villila{
+background-color: lightpink;
+}
+#narancs{
+background-color: orange;
+}
+div{
+    width: 350px;
+    height: 200px;
+    
+    
+   
+}
+body{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    
+    align-content: space-between;
+    flex-wrap: wrap;
+   
+}
+
